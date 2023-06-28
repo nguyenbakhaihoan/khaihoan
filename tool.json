@@ -1,0 +1,25 @@
+[
+  {
+    "Name": "Mở Link",
+    "Target": null,
+    "Data": {
+      "Option": "Tab Hiện Tại",
+      "Type": "Input Link",
+      "Value": "https://zealy.io/c/cashmerelabs/questboard"
+    },
+    "Option": null,
+    "Index": 1
+  },
+  {
+    "Name": "Chờ",
+    "Target": null,
+    "Data": {
+      "Type": "Load Trang",
+      "TimeOut": 20
+    },
+    "Option": {
+      "Status": "Hoàn Tất"
+    },
+    "Index": 2
+  },
+  {
